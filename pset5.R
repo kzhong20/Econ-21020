@@ -120,7 +120,3 @@ lm5f <- ivreg(formula2, data = data2)
 summary(lm5f) # this gives coefficient for more kids: -5.82105
 
 
-
-
-
-
